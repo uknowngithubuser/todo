@@ -1,6 +1,0 @@
-Twitch
-
-
-!setgame [category] ----> set game category
-/user username ---> see viewer card & chat logs
-webpage version of /user ----> https://www.twitch.tv/popout/CHANNELNAME/viewercard/USERNAME
